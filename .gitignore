@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+
+data/raw/
+data/processed/
+outputs/
+
+*.onnx
+*.pt
+*.pth
+
+.vscode/
+.idea/
